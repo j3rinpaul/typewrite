@@ -15,7 +15,12 @@
   <li>Install the requirements.txt</li>
   <li>Type the word in the First field</li>
   <li>The no of Times in the second</li>
-  <li>Delay for you to open the platform in your PC</li>
+  <li>Delay: Time for you to open the platform in your PC in Seconds</li>
+</ol>
+<h3>Commands</h3>
+<ol>
+  <li>pip install -r requirements.txt</li>
+  <li>python3 type.py</li>
 </ol>
 <h3>Care:</h3>
 <ul>
