@@ -1,8 +1,4 @@
 import pyautogui,sys,time
-# import pyfiglet
-
-# m = pyfiglet.figlet_format(text='Wolfie',font="3-d")
-# print(m)
 total = 0
 word = input('Word: ')
 no = int(input('Number of Times: '))
